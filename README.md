@@ -1,4 +1,4 @@
-# Rule-Based Chatbot Using Java
+# Chatbot With Rule-Based Responses
 
 This project is a simple rule-based chatbot developed using Java as part of my Artificial Intelligence internship. It interacts with users by accepting text input, identifying keywords and predefined patterns, and generating appropriate responses using conditional statements.
 
